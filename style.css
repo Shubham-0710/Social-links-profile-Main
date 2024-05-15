@@ -1,0 +1,92 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+html{
+    background-color:hsl(0, 0%, 8%) ;
+}
+
+.login{
+    color: hsl(0, 0%, 100%);
+    width: 100%;
+    max-width: 400px;
+    background-color: hsl(0, 0%, 12%);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: auto;
+    font-family: Inter;
+    font-weight: bold;
+    height: 700px;
+
+}
+
+img{
+    height:130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    position: relative;
+    left:33.75%;
+    top: 30px;
+    margin: 0% ;
+    
+}
+
+.name{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 0px;
+   
+}
+.address{
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    margin-top: 8px;
+    
+}
+.profession{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 16px;
+
+}
+.first,.second,.third,.fourth,.fifth{
+    width: 80%;
+    background-color: hsl(0, 0%, 20%);
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.first p,.second p,.third p,.fourth p,.fifth p{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 20px;
+    margin: 0px;
+    font-size: 20px;
+}
+.first:hover,.second:hover,.third:hover,.fourth:hover,.fifth:hover{
+    background-color: hsl(75, 94%, 57%);;
+    color: black;
+
+}
+.profession{
+    font-weight: 400;
+}
+.attribution{
+    color: ghostwhite;
+    text-align: center;
+    font-size :16px;
+}
+.attribution a{
+    color: ghostwhite;
+    font-size: 16px;
+}
+
+
+
+
+
